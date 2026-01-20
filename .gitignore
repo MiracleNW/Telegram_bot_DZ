@@ -1,0 +1,8 @@
+users.json
+.env
+key.json
+bot.zip
+Dockerfile
+venv/
+__pycache__/
+*.pyc
